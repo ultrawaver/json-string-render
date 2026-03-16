@@ -1,8 +1,8 @@
 {
-  "name": "json-string-viewer",
+  "name": "json-string-render",
   "displayName": "JSON String Viewer",
   "description": "Render JSON strings with real newlines. Preview \\n \\t escape sequences as formatted text. Auto-activating JSON viewer panel for API responses, CRM exports, logs.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "ultrawaver",
   "author": {
     "name": "ultrawaver",
@@ -11,12 +11,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ultrawaver/json-string-viewer"
+    "url": "https://github.com/ultrawaver/json-string-render"
   },
   "bugs": {
-    "url": "https://github.com/ultrawaver/json-string-viewer/issues"
+    "url": "https://github.com/ultrawaver/json-string-render/issues"
   },
-  "homepage": "https://github.com/ultrawaver/json-string-viewer#readme",
+  "homepage": "https://github.com/ultrawaver/json-string-render#readme",
   "engines": {
     "vscode": "^1.85.0"
   },

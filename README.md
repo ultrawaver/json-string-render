@@ -1,9 +1,9 @@
 # JSON String Viewer for VS Code
 
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/ultrawaver.json-string-viewer)](https://marketplace.visualstudio.com/items?itemName=ultrawaver.json-string-viewer)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/ultrawaver.json-string-viewer)](https://marketplace.visualstudio.com/items?itemName=ultrawaver.json-string-viewer)
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/ultrawaver.json-string-render)](https://marketplace.visualstudio.com/items?itemName=ultrawaver.json-string-render)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/ultrawaver.json-string-render)](https://marketplace.visualstudio.com/items?itemName=ultrawaver.json-string-render)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/ultrawaver/json-string-viewer?style=social)](https://github.com/ultrawaver/json-string-viewer)
+[![GitHub stars](https://img.shields.io/github/stars/ultrawaver/json-string-render?style=social)](https://github.com/ultrawaver/json-string-render)
 
 **Render JSON string values with real newlines.** Preview `\n`, `\t`, `\r` escape sequences as formatted, human-readable text in a side panel. Auto-activates on `.json` files — zero configuration needed.
 
@@ -64,13 +64,13 @@ This is a [long-requested feature](https://github.com/microsoft/vscode/issues/89
 
 ### From Command Line
 ```bash
-code --install-extension ultrawaver.json-string-viewer
+code --install-extension ultrawaver.json-string-render
 ```
 
 ### From VSIX
-Download the `.vsix` from [GitHub Releases](https://github.com/ultrawaver/json-string-viewer/releases), then:
+Download the `.vsix` from [GitHub Releases](https://github.com/ultrawaver/json-string-render/releases), then:
 ```bash
-code --install-extension json-string-viewer-*.vsix
+code --install-extension json-string-render-*.vsix
 ```
 
 ## Usage
@@ -137,11 +137,11 @@ Formatters (like Prettier) re-indent the JSON but **don't render escape sequence
 
 ## Contributing
 
-Issues and PRs welcome at [GitHub](https://github.com/ultrawaver/json-string-viewer).
+Issues and PRs welcome at [GitHub](https://github.com/ultrawaver/json-string-render).
 
 If this extension saved you time, please consider:
-- [Star the repo](https://github.com/ultrawaver/json-string-viewer) on GitHub
-- [Rate it](https://marketplace.visualstudio.com/items?itemName=ultrawaver.json-string-viewer&ssr=false#review-details) on VS Code Marketplace
+- [Star the repo](https://github.com/ultrawaver/json-string-render) on GitHub
+- [Rate it](https://marketplace.visualstudio.com/items?itemName=ultrawaver.json-string-render&ssr=false#review-details) on VS Code Marketplace
 - Share it with colleagues who work with JSON exports
 
 ## License
